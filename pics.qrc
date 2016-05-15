@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ball1.png</file>
+        <file>ball2.png</file>
+        <file>BC.png</file>
+        <file>exit.png</file>
+        <file>LEFT.png</file>
+        <file>right.png</file>
+        <file>ex.png</file>
+        <file>St.png</file>
+        <file>RULE.png</file>
+        <file>RUL.png</file>
+        <file>title.png</file>
+        <file>again.png</file>
+        <file>FINAL.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
